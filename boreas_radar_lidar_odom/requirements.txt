@@ -1,0 +1,8 @@
+numpy>=1.24
+matplotlib>=3.7
+pillow>=10.0
+scipy>=1.11
+open3d>=0.17
+evo>=1.28
+kiss-icp>=1.0
+tqdm

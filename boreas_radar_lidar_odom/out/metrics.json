@@ -1,0 +1,20 @@
+{
+  "sequence": "boreas-2021-09-02-11-42",
+  "notes": "Radar: 400 frames (top-5/az + Open3D ICP). LiDAR: 800 frames (KISS-ICP). RPE delta=10 m. APE with SE(3) Umeyama alignment vs Applanix.",
+  "rpe_delta_m": 10.0,
+  "radar": {
+    "ate_rmse_m": 3.1608,
+    "rpe_rmse_m": 0.4529,
+    "drift_pct_rpe": 4.53,
+    "path_length_m": 511.35,
+    "n_poses": 400
+  },
+  "lidar": {
+    "ate_rmse_m": 0.2902,
+    "rpe_rmse_m": 0.1252,
+    "drift_pct_rpe": 1.25,
+    "path_length_m": 403.66,
+    "n_poses": 800
+  },
+  "resume_line": "Built 2D radar odometry (CFAR keypoints + ICP) on Navtech radar from Boreas sequence boreas-2021-09-02-11-42 and compared it with a KISS-ICP LiDAR baseline against the Applanix GNSS/INS ground truth. Radar drift: 4.5% vs LiDAR: 1.3% (evo RPE @ 10 m); ATE 3.16 m vs 0.29 m."
+}

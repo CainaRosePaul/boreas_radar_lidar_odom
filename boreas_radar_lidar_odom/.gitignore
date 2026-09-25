@@ -1,0 +1,8 @@
+.venv/
+boreas-data/
+out/*.zip
+out/download*.log
+out/eval.log
+__pycache__/
+*.pyc
+.DS_Store
