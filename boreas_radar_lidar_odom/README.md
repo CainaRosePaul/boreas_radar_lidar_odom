@@ -1,6 +1,6 @@
 # Outdoor Radar & LiDAR Odometry under Adverse Weather
 
-**Learn-by-doing mini-project** on the [Boreas](https://www.boreas.utias.utoronto.ca/) dataset.
+** [Boreas](https://www.boreas.utias.utoronto.ca/) dataset.
 
 You will:
 
