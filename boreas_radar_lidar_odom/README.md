@@ -29,7 +29,7 @@ Resume line:
 
 ---
 
-## Why this project exists (intuition)
+## Why this project exists
 
 | Sensor | Strength | Weakness |
 |--------|----------|----------|
